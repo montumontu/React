@@ -8,4 +8,4 @@ const container = React.createElement("div", {}, [ heading1, heading2 ]);
 
 const heading = React.createElement("h1", {}, "Namaste");
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(container);
+root.render(root);
